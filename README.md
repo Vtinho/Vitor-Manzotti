@@ -1,14 +1,14 @@
 # Olá, me chamo Vitor Manzotti ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando em 
-- 🌱 Atualmente estou aprendendo 
+- 🔭 Atualmente estou não trabalhando pois estou começando na área...
+- 🌱 Atualmente estou aprendendo HTML, css e Javascript 
 - 👯 Estou procurando colaborar em 
 - 🤔 Estou procurando ajuda com 
 - 💬 Pergunte-me sobre 
 - 📫 Como entrar em contato comigo: 
-- 😄 Pronomes: 
-- ⚡ Curiosidade: 
+- 😄 Pronomes: ele/dele
+- ⚡ Curiosidade: Amo animais, principalmente gatos!
 
 ## Ferramentas e Tecnologias
 
